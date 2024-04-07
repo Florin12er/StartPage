@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'z0mbi3 dots',
-					link: 'https://github.com/gh0stzk/dotfiles',
+					name: 'Hypr-dots',
+					link: 'https://github.com/prasanthrangan/hyprdots',
 				},
 				{
 					name: 'Arch Linux',
