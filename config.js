@@ -195,8 +195,8 @@ const CONFIG = {
 					link: 'https://www.reddit.com/r/unixporn',
 				},
 				{
-					name: 'Facebook',
-					link: 'https://www.facebook.com',
+					name: 'Skool',
+					link: 'https://www.skool.com/cautious-movement-3999',
 				},
 				{
 					name: 'Twitter',
