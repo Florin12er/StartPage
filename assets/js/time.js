@@ -10,7 +10,7 @@ function displayClock() {
 	var d = new Date();
 	var mm = monthNames[d.getMonth()];
 	var dd = d.getDate();
-	var min = (mins = ('0' + d.getMinutes()).slice(-2));
+	var min = (min = ('0' + d.getMinutes()).slice(-2));
 	var hh = d.getHours();
 	var ampm = '';
 
