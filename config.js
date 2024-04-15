@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://www.twitch.tv',
 				},
 				{
-					name: 'Amazon Prime',
-					link: 'https://www.primevideo.com',
+					name: 'Amazon',
+					link: 'https://www.amazon.com/',
 				},
 			],
 		},
@@ -187,7 +187,7 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'BBS haaretor',
+					name: 'BBS haarentor',
 					link: 'https://www.bbs-haarentor.de/',
 				},
 				{
