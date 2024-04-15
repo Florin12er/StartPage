@@ -187,8 +187,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'BBS haaretor',
+					link: 'https://www.bbs-haarentor.de/',
 				},
 				{
 					name: 'r/unixporn',
