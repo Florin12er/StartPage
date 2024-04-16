@@ -165,8 +165,8 @@ const CONFIG = {
 					link: 'https://www.youtube.com',
 				},
 				{
-					name: 'Netflix',
-					link: 'https://www.netflix.com',
+					name: 'Github',
+					link: 'https://github.com/',
 				},
 				{
 					name: 'Twitch',
