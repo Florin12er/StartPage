@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://github.com/',
 				},
 				{
-					name: 'Twitch',
-					link: 'https://www.twitch.tv',
+					name: 'Whatsapp',
+					link: 'https://web.whatsapp.com/',
 				},
 				{
 					name: 'Amazon',
