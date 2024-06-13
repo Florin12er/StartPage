@@ -209,8 +209,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Programming',
-					link: 'https://www.reddit.com/r/programming/',
+					name: 'Personal Portofolio Site',
+					link: 'https://sebastianflorinportofolion.netlify.app/',
 				},
 				{
 					name: 'Rust',
