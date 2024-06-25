@@ -221,8 +221,8 @@ const CONFIG = {
 					link: 'https://www.reddit.com/r/golang/',
 				},
 				{
-					name: 'Python',
-					link: 'https://www.reddit.com/r/Python/',
+					name: 'Nextcloud',
+                    link: 'http://localhost:9081',
 				},
 			],
 		},
