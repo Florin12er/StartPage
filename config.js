@@ -213,16 +213,20 @@ const CONFIG = {
           link: "https://portofolio-sebastian1.vercel.app",
         },
         {
-          name: "Rust",
-          link: "https://www.reddit.com/r/rust/",
+          name: "Excalidraw",
+          link: "https://localhost:5000",
         },
         {
-          name: "Go",
-          link: "https://www.reddit.com/r/golang/",
+          name: "Docmost",
+          link: "http://localhost:3000",
         },
         {
-          name: "Nextcloud",
-          link: "http://localhost:9081",
+          name: "Penpot",
+          link: "http://localhost:9001",
+        },
+        {
+          name: "Coder",
+          link: "http://localhost:8080",
         },
       ],
     },
