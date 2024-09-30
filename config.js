@@ -191,9 +191,10 @@ const CONFIG = {
           link: "https://www.bbs-haarentor.de/",
         },
         {
-          name: "r/unixporn",
-          link: "https://www.reddit.com/r/unixporn",
+          name: "Personal Portofolio Site",
+          link: "https://portofolio-sebastian1.vercel.app",
         },
+
         {
           name: "Skool",
           link: "https://www.skool.com/cautious-movement-3999",
@@ -209,12 +210,8 @@ const CONFIG = {
       id: "2",
       links: [
         {
-          name: "Personal Portofolio Site",
-          link: "https://portofolio-sebastian1.vercel.app",
-        },
-        {
           name: "Excalidraw",
-          link: "https://localhost:5000",
+          link: "http://localhost:5000",
         },
         {
           name: "Docmost",
